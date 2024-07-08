@@ -6,8 +6,6 @@
 -   [Prerequisites](#prerequisites)
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Configuration](#configuration)
--   [Contributing](#contributing)
 -   [License](#license)
 
 ## Introduction
@@ -22,11 +20,11 @@ This project uses the OpenWeatherMap API to gather historical air quality data f
 ## Installation
 
 1.  Clone the repository:       
-`git clone https://github.com/SimoOgni/Json2CSV.git`
+`git clone https://github.com/SimoOgni/Json2CSV.git`\
 `cd Json2CSV` 
     
-2.  Install the required dependencies:
-    `npm install`
+2.  Install the required dependencies:\
+`npm install`
 
 ## Usage
 
