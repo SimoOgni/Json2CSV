@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Torino",
+    "lat": 45.0677551,
+    "lon": 7.6824892,
+    "country": "IT"
+  },
+  {
+    "name": "Aosta",
+    "lat": 45.7370885,
+    "lon": 7.3196649,
+    "country": "IT"
+  },
+  {
+    "name": "Milano",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "country": "IT"
+  },
+  {
+    "name": "Trento",
+    "lat": 46.0664228,
+    "lon": 11.1257601,
+    "country": "IT"
+  },
+  {
+    "name": "Venezia",
+    "lat": 45.4371908,
+    "lon": 12.3345898,
+    "country": "IT"
+  },
+  {
+    "name": "Trieste",
+    "lat": 45.6496485,
+    "lon": 13.7772781,
+    "country": "IT"
+  },
+  {
+    "name": "Genova",
+    "lat": 44.40726,
+    "lon": 8.9338624,
+    "country": "IT"
+  },
+  {
+    "name": "Bologna",
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "country": "IT"
+  },
+  {
+    "name": "Firenze",
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "country": "IT"
+  },
+  {
+    "name": "Ancona",
+    "lat": 43.6170137,
+    "lon": 13.5170982,
+    "country": "IT"
+  },
+  {
+    "name": "Perugia",
+    "lat": 43.1119613,
+    "lon": 12.3890104,
+    "country": "IT"
+  },
+  {
+    "name": "Roma",
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "country": "IT"
+  },
+  {
+    "name": "L'Aquila",
+    "lat": 42.3489203,
+    "lon": 13.3979672,
+    "country": "IT"
+  },
+  {
+    "name": "Campobasso",
+    "lat": 41.5597935,
+    "lon": 14.6602725,
+    "country": "IT"
+  },
+  {
+    "name": "Napoli",
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "country": "IT"
+  },
+  {
+    "name": "Bari",
+    "lat": 41.1257843,
+    "lon": 16.8620293,
+    "country": "IT"
+  },
+  {
+    "name": "Potenza",
+    "lat": 40.6384046,
+    "lon": 15.8022077,
+    "country": "IT"
+  },
+  {
+    "name": "Catanzaro",
+    "lat": 38.9076353,
+    "lon": 16.5960465,
+    "country": "IT"
+  },
+  {
+    "name": "Palermo",
+    "lat": 38.1112268,
+    "lon": 13.3524434,
+    "country": "IT"
+  },
+  {
+    "name": "Cagliari",
+    "lat": 39.2171994,
+    "lon": 9.113311,
+    "country": "IT"
+  }
+]
